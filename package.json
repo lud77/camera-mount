@@ -4,7 +4,8 @@
   "description": "This is a Freecad project for a camera mount to be used with a motorized pan and tilt support. The design of the camera mount itself is original and the arms are designed to comply with the pan and tilt body found on [Thingiverse](https://www.thingiverse.com/thing:1799905).",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./build/render"
   },
   "repository": {
     "type": "git",
