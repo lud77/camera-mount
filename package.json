@@ -1,0 +1,23 @@
+{
+  "name": "camera-mount",
+  "version": "1.0.0",
+  "description": "This is a Freecad project for a camera mount to be used with a motorized pan and tilt support. The design of the camera mount itself is original and the arms are designed to comply with the pan and tilt body found on [Thingiverse](https://www.thingiverse.com/thing:1799905).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lud77/camera-mount.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lud77/camera-mount/issues"
+  },
+  "homepage": "https://github.com/lud77/camera-mount#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "node-stl-thumbnailer": "^1.0.1"
+  }
+}
