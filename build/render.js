@@ -8,8 +8,8 @@ const thumbnailer = (source, camera, target) => new StlThumbnailer({
         filePath: source,
         requestThumbnails: [
             {
-                width: 500,
-                height: 500,
+                width: 250,
+                height: 250,
                 baseColor: 0xaaaaaa,
                 cameraAngle: camera
             }
