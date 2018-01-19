@@ -23,3 +23,6 @@ const thumbnailer = (source, camera, target) => new StlThumbnailer({
 
 thumbnailer(`${sourceDir}mount.stl`, [100, 50, 100], `${targetDir}mount-side.png`);
 thumbnailer(`${sourceDir}mount.stl`, [50, 50, -100], `${targetDir}mount-back.png`);
+
+thumbnailer(`${sourceDir}panel.stl`, [100, 50, 100], `${targetDir}panel-back.png`);
+thumbnailer(`${sourceDir}panel.stl`, [50, 50, -100], `${targetDir}panel-front.png`);
