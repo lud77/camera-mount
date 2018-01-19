@@ -7,15 +7,15 @@ This is a Freecad project for a camera mount to be used with a motorized pan and
 
 ### Camera mount
 
-![Camera mount - Side view](https://github.com/lud77/camera-mount/blob/master/dist/thumbs/mount-side.png)
+![Camera mount - Side view](https://github.com/lud77/camera-mount/blob/master/dist/thumbs/mount-side.png =250x250)
 
-![Camera mount - Back view](https://github.com/lud77/camera-mount/blob/master/dist/thumbs/mount-back.png)
+![Camera mount - Back view](https://github.com/lud77/camera-mount/blob/master/dist/thumbs/mount-back.png =250x250)
 
 ### Back panel
 
-![Back panel - front view](https://github.com/lud77/camera-mount/blob/master/dist/thumbs/panel-front.png)
+![Back panel - front view](https://github.com/lud77/camera-mount/blob/master/dist/thumbs/panel-front.png =250x250)
 
-![Back panel - back view](https://github.com/lud77/camera-mount/blob/master/dist/thumbs/panel-back.png)
+![Back panel - back view](https://github.com/lud77/camera-mount/blob/master/dist/thumbs/panel-back.png =250x250)
 
 
 # Rendering the thumbnails
