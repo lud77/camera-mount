@@ -23,3 +23,8 @@ This is a Freecad project for a camera mount to be used with a motorized pan and
     npm i
 
     npm run build
+
+
+# Todo
+
+- [ ] Add a spreadsheet to the project and parameterize everything
